@@ -118,14 +118,12 @@ GitHub Actions запускается при `push` в `main` и при Pull Req
 
 ## 7. Результаты тестирования
 
-Здесь добавить скриншоты:
-- успешного запуска тестов;
-- успешного шага Bandit;
-- успешного шага pip-audit;
-- общего статуса GitHub Actions.
+<img width="629" height="389" alt="изображение" src="https://github.com/user-attachments/assets/8793e01e-1110-4ad9-b9bf-7da3a1ae0c11" />
+<img width="635" height="637" alt="изображение" src="https://github.com/user-attachments/assets/d52a56f5-5959-4ae8-afe0-faca7eaf03c9" />
+<img width="637" height="298" alt="изображение" src="https://github.com/user-attachments/assets/cc9995fc-9beb-4bac-b868-b3b47eefcfc4" />
 
-Ссылка на успешный запуск CI/CD: **добавить ссылку на свой запуск**.
+[Ссылка на успешный запуск CI/CD](https://github.com/lafffka/is-lab1-secure-rest-api/actions/runs/40369432454).
 
 ## 8. Репозиторий
 
-Ссылка: **добавить ссылку на свой GitHub-репозиторий**.
+[Ссылка на репозиторий](https://github.com/lafffka/is-lab1-secure-rest-api).
