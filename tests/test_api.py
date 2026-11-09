@@ -9,7 +9,7 @@ from app import create_app, db, User
 def client():
     app = create_app({
         "TESTING": True,
-        "JWT_SECRET_KEY": "test-only-secret-key",
+        "JWT_SECRET_KEY": "test-only-secret-key-for-testing-123456",
         "SQLALCHEMY_DATABASE_URI": "sqlite://",
     })
 
